@@ -20,9 +20,9 @@ It includes core shopping features such as product browsing, cart management, an
 - **Deployment**: Localhost (future plan: deploy to Netlify + Railway/AWS)
 
 ## Screenshots
-![Homepage Screenshot](Screenshot_26-4-2026_1842_localhost.jpeg)
+![Homepage Screenshot](Screenshot_26-4-2026_181930_localhost.jpeg)
 ![Cart Screenshot](Screenshot_26-4-2026_181029_localhost.jpeg)
-![Favorites Screenshot](Screenshot_26-4-2026_181029_localhost.jpeg)
+![Favorites Screenshot](Screenshot_26-4-2026_18931_localhost.jpeg)
 
 ## Installation
 1. Clone the repository

@@ -22,7 +22,7 @@ It includes core shopping features such as product browsing, cart management, an
 ## Screenshots
 ![Homepage Screenshot](Screenshot_26-4-2026_1842_localhost.jpeg)
 ![Cart Screenshot](Screenshot_26-4-2026_181029_localhost.jpeg)
-![Favorites Screenshot](Screenshot_26-4-2026_18931_localhost (1).jpeg)
+![Favorites Screenshot](Screenshot_26-4-2026_181029_localhost.jpeg)
 
 ## Installation
 1. Clone the repository

@@ -25,6 +25,25 @@ It includes core shopping features such as product browsing, cart management, an
 ![Favorites Screenshot](Screenshot_26-4-2026_18931_localhost.jpeg)
 
 ## Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/mern-ecommerce.git
+```bash
+# Clone the repository
+git clone https://github.com/hassanalistudent/Ecommerse-Project.git
+
+# Navigate into the project folder
+cd Ecommerse-Project
+
+# Install backend dependencies
+npm install
+
+# Navigate into the client folder and install frontend dependencies
+cd client
+npm install
+
+# Run backend server
+npm run backend
+
+# Run frontend
+npm frontend
+
+# For full stack
+npm run dev

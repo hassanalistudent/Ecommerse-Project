@@ -36,7 +36,7 @@ cd Ecommerse-Project
 npm install
 
 # Navigate into the client folder and install frontend dependencies
-cd client
+cd frontend
 npm install
 
 # Run backend server
